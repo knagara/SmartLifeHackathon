@@ -8,5 +8,5 @@ MqttManager, SDMManager, UbisenseManagerを配置した上で、
 2つのオブジェクトを生成し、片方はUbisenseToSDM.csをアタッチ、
 もう片方は座標値に連動させて動かすオブジェクトとします。
 
-![HowToUse(https://raw.githubusercontent.com/knagara/SmartLifeHackathon/master/UbisenseToSDM/screenshot.png)
+![HowToUse](https://raw.githubusercontent.com/knagara/SmartLifeHackathon/master/UbisenseToSDM/screenshot.png)
 
