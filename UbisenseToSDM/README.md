@@ -1,4 +1,4 @@
-# Ubisense to SDM
+# UbisenseToSDM.cs
 
 Ubisenseからの座標値を取得し、シーン上のオブジェクトを連動させた上で、SDMの音源を鳴らします
 
